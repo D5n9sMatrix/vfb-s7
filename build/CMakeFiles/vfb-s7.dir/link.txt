@@ -1,0 +1,2 @@
+/usr/bin/ar qc libvfb-s7.a CMakeFiles/vfb-s7.dir/vfb-s7.cpp.o
+/usr/bin/ranlib libvfb-s7.a
